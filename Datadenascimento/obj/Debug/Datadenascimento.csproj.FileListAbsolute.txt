@@ -1,0 +1,10 @@
+C:\Users\P114\source\repos\Datadenascimento\Datadenascimento\bin\Debug\Datadenascimento.exe.config
+C:\Users\P114\source\repos\Datadenascimento\Datadenascimento\bin\Debug\Datadenascimento.exe
+C:\Users\P114\source\repos\Datadenascimento\Datadenascimento\bin\Debug\Datadenascimento.pdb
+C:\Users\P114\source\repos\Datadenascimento\Datadenascimento\obj\Debug\Datadenascimento.csprojAssemblyReference.cache
+C:\Users\P114\source\repos\Datadenascimento\Datadenascimento\obj\Debug\Datadenascimento.Form1.resources
+C:\Users\P114\source\repos\Datadenascimento\Datadenascimento\obj\Debug\Datadenascimento.Properties.Resources.resources
+C:\Users\P114\source\repos\Datadenascimento\Datadenascimento\obj\Debug\Datadenascimento.csproj.GenerateResource.cache
+C:\Users\P114\source\repos\Datadenascimento\Datadenascimento\obj\Debug\Datadenascimento.csproj.CoreCompileInputs.cache
+C:\Users\P114\source\repos\Datadenascimento\Datadenascimento\obj\Debug\Datadenascimento.exe
+C:\Users\P114\source\repos\Datadenascimento\Datadenascimento\obj\Debug\Datadenascimento.pdb
